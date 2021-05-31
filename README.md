@@ -1,1 +1,2 @@
-# Shooting
+# Shooting 
+A simple shooting game
